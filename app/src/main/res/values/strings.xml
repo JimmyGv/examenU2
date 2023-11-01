@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExamenUnidad2</string>
+    <string name="txtWelcome">Bienvenido</string>
+    <string name="hint_User">Usuario</string>
+    <string name="hint_Pwrd">Contraseña</string>
+    <string name="txtPrincipal">Pagina Principal</string>
+</resources>
